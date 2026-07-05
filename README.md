@@ -23,9 +23,9 @@ Health Guardian is a browser-based medicine tracker that:
 
 <table>
 <tr>
-<td align="center"><b>Landing Page</b><br><img width="200" alt="landing page" src="https://github.com/user-attachments/assets/44388713-d99c-4bda-bf72-5b7652a3afc4" /></td>
+<td align="center"><b>Landing Page</b><br><img width="200" alt="landing page" src="https://github.com/user-attachments/assets/98278c50-ce1e-400f-9cd8-bb768d2e561d" /></td>
 <td align="center"><b>Onboarding</b><br><img width="200" alt="onboarding" src="https://github.com/user-attachments/assets/2f8140e1-fe45-4933-878a-38b417de9943" /></td>
-<td align="center"><b>Dashboard</b><br><img width="200" alt="dashboard" src="https://github.com/user-attachments/assets/98278c50-ce1e-400f-9cd8-bb768d2e561d" /></td>
+<td align="center"><b>Dashboard</b><br><!-- PASTE new dashboard.png HERE --></td>
 </tr>
 </table>
 ## Why Not Just Use a Phone Alarm?
