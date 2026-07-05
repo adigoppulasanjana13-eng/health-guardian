@@ -23,7 +23,7 @@ Health Guardian is a browser-based medicine tracker that:
 
 <table>
 <tr>
-<td align="center"><b>Landing Page</b><br><img width="445" height="590" alt="landing page" src="https://github.com/user-attachments/assets/cf80ca83-4e29-4700-9a0a-0feb5a80451f" />
+<td align="center"><b>Landing Page</b><br><<img width="420" height="900" alt="landing (1)" src="https://github.com/user-attachments/assets/d2042355-a8d7-48a7-be8c-18258a70a3ae" />
 
 <td align="center"><b>Onboarding</b><br><img width="420" height="900" alt="onboarding" src="https://github.com/user-attachments/assets/1b121b0c-2e06-491b-91f9-6c968a519c1c" />
 
